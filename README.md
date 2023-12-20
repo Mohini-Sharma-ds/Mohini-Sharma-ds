@@ -1,3 +1,4 @@
+![logo](https://github.com/Mohini-Sharma-ds/Mohini-Sharma-ds/blob/main/WhatsApp%20Image%202023-12-20%20at%2011.44.36%20AM%20(1).png)
 <h1 align="center">Hi 👋, I'm Mohini Sharma</h1>
 <h3 align="center">A passionate Data science enthusiast from India</h3>
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
